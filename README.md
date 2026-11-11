@@ -1,6 +1,6 @@
 # Awesome-Cloud-Data-Migration-ETL
 
-# Top Cloud Data Migration & ETL Ecosystem
+## Top Cloud Data Migration & ETL Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Data Pipeline Automation, ELT/ETL Orchestration & Cloud Warehouse Ingestion*  
