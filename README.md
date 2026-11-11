@@ -77,9 +77,9 @@ The sector exhibits a **moderately fragmented, barbell concentration structure**
 
 ## 💻 Open-Source GitHub Projects
 
-*Ranked in descending order by GitHub Stars count ⭐.*
+*Ranked in descending order by GitHub_Stars_Count ⭐.*
 
-| Project | Stars | Description | Category |
+| Project | GitHub_Stars | Description | Category |
 |---|---|---|---|
 | **[Apache Airflow](https://github.com/apache/airflow)** | [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Industry standard programmatic workflow orchestration platform for authoring, scheduling, and monitoring complex data engineering DAGs. | Orchestration |
 | **[Apache Spark](https://github.com/apache/spark)** | [![Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) | Unified multi-language engine for large-scale distributed data processing, batch ETL, and high-velocity streaming computations. | Processing & ETL |
@@ -107,7 +107,7 @@ Contributions are warmly welcomed! Help make this curated guide the most compreh
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
-3. 📝 **Add or update entries** following the table format (include official links, factual description, specific pricing/limits, or GitHub star badge).
+3. 📝 **Add or update entries** following the table format (include official links, factual description, specific pricing/limits, or GitHub Stars_Badge).
 4. 🚀 **Submit a Pull Request** with a concise description of your changes.
 
 ---
